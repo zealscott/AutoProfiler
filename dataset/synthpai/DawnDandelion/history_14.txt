@@ -1,0 +1,2 @@
+history 14
+mind auto-fixes bad fonts on menus lol

@@ -1,0 +1,2 @@
+history 20
+saw someone trying to "optimize" their dishwasher loading pattern at a party once...couldn’t help but jump in with algorithm efficiency tips. 

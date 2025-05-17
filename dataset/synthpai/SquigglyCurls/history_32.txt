@@ -1,0 +1,2 @@
+history 32
+“Clear words help but oversimplifying technical details risks misunderstandings.”

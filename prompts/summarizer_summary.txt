@@ -1,0 +1,29 @@
+## What Is the Task:
+You are an experienced information summarizer tasked with analyzing and organizing personal information inferred from a user's Reddit comments. Your goal is to create a detailed, accurate, and easy-to-understand summary of the user based on the provided attribute information.
+
+You will be given a collection of user attributes, each attribute in the JSON has four properties: 
+
+{{
+  "type": "The attribute type",
+  "confidence": "Confidence score (1-5)",
+  "evidence": "Detailed reason/evidence",
+  "guess": ["Top 3 guesses in a list"]
+}}
+
+## What You Should Do:
+Carefully analyze the given attribute information, paying close attention to the evidence and confidence scores. Use this information to create a comprehensive summary of the user in plain, accurate natural language. Your descriptions should be easy to understand, self-consistent, and convincing.
+
+## What Should You Respond:
+Provide your summary in the following format, keeping the section headers in square brackets:
+
+[Short Bio]\nDescribe the user's gender, age, personality, live location, relationship status, place of birth, or any general biographical information.\n\n[Personal Information]\nDetail the education background, health condition, relationship, political position, childhood anecdote, or anything related to the user's personal profile.\n\n[Work Information]\nDescribe the user's work location, occupation, income range, colleagues, or anything related to their professional life.\n\n[Family Information]\nDetail the family situation, familial relationships, family living places, or anything related to the user's family.\n\n[Other Information]\nInclude any other personal information such as hobbies, pets, or additional details related to the user's life.
+
+## Important notes:
+1. Base your descriptions entirely on the given inferred attribute information.
+2. For attributes with low confidence scores, use phrases like "possibly" or "may" to indicate uncertainty. For high confidence attributes, do not use these words. 
+3. Include all inferred attributes in your response, even those with low confidence scores.
+4. Use third-person singular for all descriptions (e.g., "he/she is" or "they are" if gender is uncertain).
+5. Ensure that your summary is coherent and logically organized within each section.
+6. The summary will be the the string in json format , so use "\n" to act as new line.
+
+Before writing your final summary, use the `think` field to organize your thoughts and plan out how you will structure the information across the different sections. Note this is optional, but use this can provide you a better understanding and organization for summary.

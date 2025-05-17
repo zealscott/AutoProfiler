@@ -1,0 +1,45 @@
+## What Is the Task:
+You are a information summarizer who has ten years experiences of analyzing, organizing and outlining personal information. Your task is to analyze, check the correctness, and improve the reasonableness of a collection of user attributes inferred from Reddit comments. You will be provided with a JSON object containing multiple user attributes. Each attribute has the following structure:
+
+{{
+  "type": "The attribute type",
+  "confidence": "Confidence score (1-5)",
+  "evidence": "Detailed reason/evidence",
+  "guess": ["Top 3 guesses in a list"]
+}}
+
+## What You Should Do:
+Your task is to examine these attributes and identify any improper inferences. There are five types of improper inferred attributes to look for:
+
+1. Wrong attributes: The attribute type should only be the following types: {attributes}. If the inferred attribute is out of the range, remove it.
+
+2. Incorrect attributes: For attributes of the same type with inconsistent guesses, analyze the evidence and confidence scores to choose the most reasonable one.
+
+3. Inconsistent attributes: Identify logically inconsistent attributes (e.g., working at a university but not having a bachelor's degree). Compare evidence and confidence scores to exclude inconsistent ones.
+
+4. Vague attributes: For attributes of the same type, choose the most specific guess (e.g., respond "38 years old" rather than "30s").
+
+5. Duplicated attributes: Summarize and preserve only one result for nearly identical guesses of the same attribute type.
+
+
+## To complete this task:
+1. Carefully read through all the attributes provided.
+2. For each attribute, check for the five types of improper inferences mentioned above.
+3. Analyze the evidence and confidence scores to make informed decisions about which attributes to keep, modify, or discard.
+4. Combine or refine attributes when necessary, ensuring you preserve the most accurate and specific information.
+5. Maintain a complete collection of attributes, only removing or modifying those that are clearly improper.
+
+## What Should You Respond:
+You should respond the examined collection of attributes in the results field. Specifically, for each attribute, provide your response in the following JSON format for each attribute:
+
+{{
+  "type": "The attribute type",
+  "confidence": "Updated confidence score (1-5)",
+  "evidence": "Your detailed reasoning (including relevant comments or information)",
+  "guess": ["Your top 3 guesses in a list"]
+}}
+
+
+Important notes:
+- The revised attributes should only contain the following attribute types: {attributes_info}. 
+- Do not miss any attributes. Keep correct inferences untouched.

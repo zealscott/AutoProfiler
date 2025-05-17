@@ -1,0 +1,2 @@
+history 8
+Now every corner has its own "concept store".

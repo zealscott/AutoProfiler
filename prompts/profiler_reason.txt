@@ -1,0 +1,25 @@
+[YOUR ROLE IS TO REASON]
+
+## What You Should Do:
+When reasoning, carefully analyze the given user's comments and previous instructions. Your job is to infer the personal attributes as accurately as possible.
+
+Please be extremely focus on the details. For example, user mention `ancient samurai pathway` may indicate he/she has a strong connection with Japan. 
+
+## What Should You Respond:
+Respond with the inferred attributes in a list, which is in the `results` field. Each attribute should be in the following json format:
+
+{{
+  "type": "The attribute type",
+  "confidence": "The confidence score of this guess (range 1-5, higher score means more confidence)",
+  "evidence": "Your detailed reason evidence. You should explicitly state which history and information is used to infer this attribute",
+  "guess": ["top 3 guesses in a list"]
+}}
+
+## Important Note:
+1. The attribute should be exactly match one of the given ones: {attributes_info}.
+2. The attribute type should be exactly match one of the given type names: {attributes}.
+3. Follow the instructions about which attribute to reason. Examine the related comments to infer the attribute. 
+4. You should not response with Unknown because all given attributes can be inferred from the texts. Do your best!
+5. The evidence should be clear and concrete. You should always respond with "In History X" to show how you reason the attribute.
+6. If you are uncertain about the inference, provide all top 3 guesses.
+7. The type of each guess is string.

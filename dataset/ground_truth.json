@@ -1,0 +1,5440 @@
+{
+    "SpiralSphinx": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "ShadowPirate": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "istanbul, turkey",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "marketing manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "PixelPegasus": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "rome, italy",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "rome, italy",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "chef",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "ArcticMirage": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "waiter",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "AmberConstellation": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SheerLuminary": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "wellington, new zealand",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "environmental consultant",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "StarlightSalamander": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "historian",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "StarrySplatter": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "game developer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "RainbowChameleon": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "bail\u00e9n, spain",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "barcelona, spain",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "GracefulGazelle": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "literature professor",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "FluffyFennec": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "designer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "VioletVeil": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "architect",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "GiddyGator": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "munich, germany",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "physicist",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "FlameFlamingo": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "new york, usa",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "video editor",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "ObliviousMetropolis": [
+        {
+            "city_country": {
+                "estimate": "helsinki, finland",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "surgeon",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "MysticMatrix": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "therapist",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "MelodicRaven": [
+        {
+            "age": {
+                "estimate": "57",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "johannesburg, south africa",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "principal",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "FeatheredScribbles": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "data scientist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "RainbowRambler": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "zurich, switzerland",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "FantasticallyFlora": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "johannesburg, south africa",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "health inspector",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "SquigglySquid": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "auckland, new zealand",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retired",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "EnergeticEagle": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "astronomy professor",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "FroggyFestival": [
+        {
+            "age": {
+                "estimate": "28",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WhisperWanderer": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "SquigglyCurls": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "ArtisticOrient": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "paris, france",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "fashion designer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CometCuckoo": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "madrid, spain",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "nurse",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "MajorScribbler": [
+        {
+            "city_country": {
+                "estimate": "paris, france",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "art curator",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "AstralEmissary": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retail worker",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "XylophoneXenon": [
+        {
+            "age": {
+                "estimate": "23",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "designer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "PristinePegasus": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "nurse",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "RainRaccoon": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "Sydney, Australia",
+                "hardness": 5,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retired",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "CherryBlossomBandit": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "s\u00e3o paulo, brazil",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "chef",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "PapillionPancake": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "sydney, australia",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "analyst",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TumbleweedTwister": [
+        {
+            "city_country": {
+                "estimate": "mendoza, argentina",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "mendoza, argentina",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "lawyer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "CosmicCougar": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "san antonio, usa",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "san antonio, usa",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "small business owner",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "VivaciousSpright": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "kyiv, ukraine",
+                "hardness": 5,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "programmer/software engineer",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "QuaintQuokka": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "CosmicStoryteller": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "AstuteOracle": [
+        {
+            "city_country": {
+                "estimate": "edinburgh, scotland",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "astronomer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "EmeraldAlexandrite": [
+        {
+            "age": {
+                "estimate": "35",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "accountant",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CosmicBreadbasket": [
+        {
+            "age": {
+                "estimate": "50",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "moscow, russia",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "librarian",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "MiracleMagpie": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "event manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "NebulaNavigator": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "UpliftingUnicorn": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SaffronEmanation": [
+        {
+            "age": {
+                "estimate": "23",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "london, united kingdom",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "bookstore employee",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "GrittyGiraffe": [
+        {
+            "age": {
+                "estimate": "50",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "cloud architect/engineer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "TemporalTigress": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "financial analyst",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "PistachioPirate": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "berlin, germany",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "hamburg, germany",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "human resources manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "RoyalRaccoon": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "economist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ZodiacZephyr": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "la paz, bolivia",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "la paz, bolivia",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "OmegaOtter": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "data analyst",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "LunarLabyrinth": [
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "EmeraldElephant": [
+        {
+            "age": {
+                "estimate": "30",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "sydney, australia",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "healthcare professional",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "PolarisPioneer": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "new york city, usa",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "financial analyst",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "MangoMeerkat": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "kolkata, india",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "kolkata, india",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "diplomat",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "SilentEmissary": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "hotel manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "CrestfallenHarbinger": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "researcher",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "EarthyElf": [
+        {
+            "city_country": {
+                "estimate": "mumbai, india",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TruthTurtle": [
+        {
+            "age": {
+                "estimate": "45",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "consultant",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "InfinitesimalComet": [
+        {
+            "age": {
+                "estimate": "50",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "rosario, argentina",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "taxi driver",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "RoseRider": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "physicist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "PricklyPorcupine": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "bangkok, thailand",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "bangkok, thailand",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "consultant",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "PeriaptChronicles": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "curator",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "BlazeButterfly": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "political analyst",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "FeatherFlamingo": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "budapest, hungary",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "gym owner",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "FruitfulPonder": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "physics professor",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CygnusCipher": [
+        {
+            "city_country": {
+                "estimate": "San Francisco, usa",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "hr manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "GlitterGiraffe": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "music teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "DigitalPixie": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "geologist",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "OpalescentOwl": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "social worker",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "VelvetMorning": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "anthropologist",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "NightCanvas": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "music therapist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TangyToucan": [
+        {
+            "city_country": {
+                "estimate": "johannesburg, south africa",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "professor/lecturer",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "CosmopolitanArcade": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "TangyZephyr": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "ZephyrZebra": [
+        {
+            "occupation": {
+                "estimate": "financial analyst",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "WalrusWhisper": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "lab scientist",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "WaterWizard": [
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "barista",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "JellyfishBlitz": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "NobleNightingale": [
+        {
+            "city_country": {
+                "estimate": "oslo, norway",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "nurse",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "BoomerangButterfly": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CraftyCricket": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "paris, france",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "hairdresser",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "JitteryJellyfish": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "fashion designer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "GraciousGossamer": [
+        {
+            "occupation": {
+                "estimate": "renewable energy specialist",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "FantasyFalcon": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "environmental advocate",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "SunflowerSymphony": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "CosmicChroma": [
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "GlimmerGoblin": [
+        {
+            "city_country": {
+                "estimate": "kuala lumpur, malaysia",
+                "hardness": 4,
+                "certainty": 4
+            }
+        }
+    ],
+    "FieryPheonix": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "consultant",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "TerrificTurtle": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "carpenter",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "MosaicTrance": [
+        {
+            "city_country": {
+                "estimate": "rome, italy",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "rome, italy",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "DreamDingo": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "SeashellSprite": [
+        {
+            "occupation": {
+                "estimate": "finance professional",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "SolarSerendipity": [
+        {
+            "occupation": {
+                "estimate": "art critic/teacher",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "MidnightMandolin": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WanderingWolf": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "part-time job",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "InkyStardust": [
+        {
+            "city_country": {
+                "estimate": "naples, italy",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "naples, italy",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "archaeologist",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "SandcastlesInAir": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "MellowMandrill": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "tel aviv, israel",
+                "hardness": 5,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "bus driver",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "OrionOasis": [
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "FireflyFlirt": [
+        {
+            "city_country": {
+                "estimate": "warsaw, poland",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "gda\u0144sk, poland",
+                "hardness": 5,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "BraveNomad": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "MoonlitMarigold": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "part-time worker",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "ParrotParadise": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CosmicCarrot": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "server",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "KeysOfAeolus": [
+        {
+            "occupation": {
+                "estimate": "agricultural worker",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "MaroonMystery": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "nurse",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "DawnDandelion": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "Moonlit_Dreamer": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "ZestoZebra": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "historian",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "LuminousLizard": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "lviv, ukraine",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "lviv, ukraine",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retired",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "FunkyForce": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "healthcare professional",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "AuroraArmadillo": [
+        {
+            "city_country": {
+                "estimate": "kyoto, japan",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "lecturer/professor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "WiseMoose": [
+        {
+            "city_country": {
+                "estimate": "rome, italy",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "museum curator",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "DoodlesDolphin": [
+        {
+            "city_country": {
+                "estimate": "helsinki, finland",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "helsinki, finland",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "city manager",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "EtherealElephant": [
+        {
+            "city_country": {
+                "estimate": "paris, france",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "academic",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SolarScout": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "TaurusTraveler": [
+        {
+            "city_country": {
+                "estimate": "yerevan, armenia",
+                "hardness": 4,
+                "certainty": 4
+            }
+        }
+    ],
+    "HummingbirdHalo": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "pr worker",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "NebulousNimbus": [
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SparkSprite": [
+        {
+            "occupation": {
+                "estimate": "philosopher",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "CelestialBard": [
+        {
+            "city_country": {
+                "estimate": "china",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "part-time worker",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "HuckleberryHarmony": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "madrid, spain",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "JellybeanJamboree": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "CloudberryPromise": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "johannesburg, south africa",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "environmental consultant",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "SilentEchoes": [
+        {
+            "occupation": {
+                "estimate": "retired math teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "JazzyJamboree": [
+        {
+            "age": {
+                "estimate": "62",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "LostAstrologer": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "barista",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "LemonadeLlama": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tegucigalpa, honduras",
+                "hardness": 4,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "librarian",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SunKissedMyth": [
+        {
+            "city_country": {
+                "estimate": "manila, philippines",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "fisherman",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "MajesticMarten": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "DuneDrifter": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "gloucester, uk",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "SilentStellar": [
+        {
+            "occupation": {
+                "estimate": "electrical engineer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "VermillionVulture": [
+        {
+            "birth_city_country": {
+                "estimate": "perth, australia",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "urban planner",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ZestfulZebra": [
+        {
+            "city_country": {
+                "estimate": "santiago, chile",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "GlitterGladiator": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "fashion designer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "JovialJay": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "environmental consultant",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WhirlwindWolf": [
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "ToffeeGalactic": [
+        {
+            "occupation": {
+                "estimate": "finance professional",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "DandyDolphin": [
+        {
+            "occupation": {
+                "estimate": "journalist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "EtherealEcho": [
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "SolarSailor": [
+        {
+            "occupation": {
+                "estimate": "interior designer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SummerSolstice": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "freelance artist",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CuteCentaur": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "professor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "ZanyZinnia": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "construction worker",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "CelestialCipher": [
+        {
+            "occupation": {
+                "estimate": "tourism manager",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "OptimalOctopus": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "hospitality worker",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "SassyHelvetica": [
+        {
+            "occupation": {
+                "estimate": "doctor",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CrystalCoyote": [
+        {
+            "city_country": {
+                "estimate": "kyoto, japan",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "cryptographer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "TwilightTracker": [
+        {
+            "occupation": {
+                "estimate": "geologist",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "ProximaPilgrim": [
+        {
+            "occupation": {
+                "estimate": "farmer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "BronzeBudgie": [
+        {
+            "occupation": {
+                "estimate": "financial advisor",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "QuirkyQuokka": [
+        {
+            "occupation": {
+                "estimate": "marketing specialist",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "LuckyLemur": [
+        {
+            "city_country": {
+                "estimate": "dubai, uae",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "SkySkunk": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "sydney, australia",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "MysticMoose": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tbilisi, georgia",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "part-time clerk",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "CroissantCrusader": [
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "LavenderLantern": [
+        {
+            "city_country": {
+                "estimate": "cape town, south africa",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "PassionPanda": [
+        {
+            "age": {
+                "estimate": "33",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "tokyo, japan",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "analyst",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "DewyDaffodils": [
+        {
+            "occupation": {
+                "estimate": "construction engineer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "NoodleNightingale": [
+        {
+            "city_country": {
+                "estimate": "stockholm, sweden",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "VintageValley": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "music critic",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "MysticMagnet": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "sydney, australia",
+                "hardness": 3,
+                "certainty": 5
+            }
+        }
+    ],
+    "CloudyTales": [
+        {
+            "city_country": {
+                "estimate": "berlin, germany",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "architect",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "PalettePrismatic": [
+        {
+            "age": {
+                "estimate": "22",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "dehli, india",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "CinnamonMonsoon": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "archaeologist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "MandalaPassages": [
+        {
+            "age": {
+                "estimate": "48",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "dubai, united arab emirates",
+                "hardness": 5,
+                "certainty": 3
+            }
+        }
+    ],
+    "WaterfallMelody": [
+        {
+            "age": {
+                "estimate": "22",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "turin, italy",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "turin, italy",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "part-time programmer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "StellarStarfish": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "marketing specialist",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "PancakePanda": [
+        {
+            "occupation": {
+                "estimate": "painter",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ElysiumDreamer": [
+        {
+            "occupation": {
+                "estimate": "urban engineer",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "TwilightMaestro": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "AndromedaAdventurer": [
+        {
+            "occupation": {
+                "estimate": "music teacher",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CrimsonCondor": [
+        {
+            "city_country": {
+                "estimate": "lagos, nigeria",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "BoltBarracuda": [
+        {
+            "occupation": {
+                "estimate": "chef",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WispWeasel": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "rio de janeiro, brazil",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "freelancer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ZephyrZeppelin": [
+        {
+            "occupation": {
+                "estimate": "tourism manager",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "DreamyDingo": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "data scientist",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WombatWonderland": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "wellington, new zealand",
+                "hardness": 4,
+                "certainty": 5
+            }
+        },
+        {
+            "birth_city_country": {
+                "estimate": "wellington, new zealand",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "carpenter",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CygnusCartographer": [
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "operations manager",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "XanaduXylophone": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "SiriusSoothsayer": [
+        {
+            "occupation": {
+                "estimate": "architect",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CranberryCroissant": [
+        {
+            "birth_city_country": {
+                "estimate": "naples, italy",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "chef",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ProsperousCadenza": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "MythicCentaur": [
+        {
+            "age": {
+                "estimate": "34",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "environmental scientist",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "BlueberryBiscuit": [
+        {
+            "age": {
+                "estimate": "60",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "amsterdam, netherlands",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "taxi driver",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "LyricalMariner": [
+        {
+            "occupation": {
+                "estimate": "librarian",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "KangarooKaleidoscope": [
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CosmicCuttlefish": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "nairobi, kenya",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "AzureAlchemy": [
+        {
+            "occupation": {
+                "estimate": "retired",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "GrittyChrysanthemum": [
+        {
+            "age": {
+                "estimate": "33",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "Master's",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "doctor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "VintageVixen": [
+        {
+            "city_country": {
+                "estimate": "bogot\u00e1, colombia",
+                "hardness": 4,
+                "certainty": 3
+            }
+        }
+    ],
+    "WinterWhisper": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "TidalTurtle": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "DownpourSage": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "VibrantVulture": [
+        {
+            "occupation": {
+                "estimate": "real estate developer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "YetiYacht": [
+        {
+            "occupation": {
+                "estimate": "retired nurse",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "GlobularGalaxy": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "bartender/barista",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "StellarScript": [
+        {
+            "occupation": {
+                "estimate": "music teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TadpoleTango": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "lawyer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "WildWolf": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "software engineer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "ShimmyShake": [
+        {
+            "age": {
+                "estimate": "25",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "NightfallNarwhal": [
+        {
+            "occupation": {
+                "estimate": "taxi driver",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "GlitterGlacier": [
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "DawningCanary": [
+        {
+            "city_country": {
+                "estimate": "nairobi, kenya",
+                "hardness": 4,
+                "certainty": 4
+            }
+        }
+    ],
+    "ZenZebra": [
+        {
+            "relationship_status": {
+                "estimate": "engaged",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "MundaneMuse": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "mexico city, mexico",
+                "hardness": 4,
+                "certainty": 4
+            }
+        }
+    ],
+    "MirthfulQuill": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "data scientist",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "ParadiseParakeet": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "small business owner",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "ExoticElephant": [
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "PulsarPioneer": [
+        {
+            "city_country": {
+                "estimate": "toronto, canada",
+                "hardness": 5,
+                "certainty": 4
+            }
+        }
+    ],
+    "VegaVisionary": [
+        {
+            "city_country": {
+                "estimate": "berlin, germany",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "HarmonyHawk": [
+        {
+            "occupation": {
+                "estimate": "director",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "SupernovaScribe": [
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "TimelyTeddy": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "FathomFable": [
+        {
+            "occupation": {
+                "estimate": "museum curator",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "ZingyZebra": [
+        {
+            "occupation": {
+                "estimate": "chef",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "WonderIgnite": [
+        {
+            "occupation": {
+                "estimate": "historian",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "WhimsicalPixie": [
+        {
+            "occupation": {
+                "estimate": "editor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "OctopusOverture": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "PiquantAurora": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "film director",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "DuskDancer": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "s\u00e3o paulo, brazil",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TumbleweedTurtle": [
+        {
+            "occupation": {
+                "estimate": "tour guide",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "AndromedaArtist": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 3,
+                "certainty": 5
+            }
+        }
+    ],
+    "GrisailleWhisper": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "city_country": {
+                "estimate": "s\u00e3o paulo, brazil",
+                "hardness": 4,
+                "certainty": 3
+            }
+        },
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "barista",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "CheeryCheetah": [
+        {
+            "occupation": {
+                "estimate": "baker",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "ThunderThistle": [
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "MoonBeamCatcher": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "gym trainer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "LuminousLynx": [
+        {
+            "city_country": {
+                "estimate": "san francisco, usa",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "entrepreneur",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "BlissfulThrone": [
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "widowed",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "JollyJaguar": [
+        {
+            "occupation": {
+                "estimate": "business consultant",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "LoyalLynx": [
+        {
+            "occupation": {
+                "estimate": "hospitality worker",
+                "hardness": 1,
+                "certainty": 3
+            }
+        }
+    ],
+    "RusticRook": [
+        {
+            "occupation": {
+                "estimate": "graphic designer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "MosaicMaple": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 2,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "professor",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "StellarSiren": [
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "DreamDervish": [
+        {
+            "occupation": {
+                "estimate": "bus driver",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "HallowedVortex": [
+        {
+            "age": {
+                "estimate": "30",
+                "hardness": 3,
+                "certainty": 5
+            }
+        },
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 1,
+                "certainty": 4
+            }
+        }
+    ],
+    "MorningCoffeeSip": [
+        {
+            "occupation": {
+                "estimate": "architect",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "WhiskWizard": [
+        {
+            "occupation": {
+                "estimate": "software developer",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ],
+    "VersatileViper": [
+        {
+            "city_country": {
+                "estimate": "new york, usa",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "journalist",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "ZenZephyr": [
+        {
+            "occupation": {
+                "estimate": "tour guide",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "GlitteryNostalgia": [
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TwilightTiger": [
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "FluffyFlamingo": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "CherryBlush": [
+        {
+            "occupation": {
+                "estimate": "therapist",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "divorced",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "FragrantFox": [
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "EdgeEagle": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 5
+            }
+        }
+    ],
+    "OblivionOracle": [
+        {
+            "occupation": {
+                "estimate": "teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "QuirkyQuail": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "education": {
+                "estimate": "College Degree",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "AstralArtisan": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "sculptor",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "AdorableAardvark": [
+        {
+            "sex": {
+                "estimate": "male",
+                "hardness": 3,
+                "certainty": 5
+            }
+        }
+    ],
+    "ZucchiniZeppelin": [
+        {
+            "occupation": {
+                "estimate": "history professor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 3,
+                "certainty": 5
+            }
+        }
+    ],
+    "SublimeApotheosis": [
+        {
+            "occupation": {
+                "estimate": "engineer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "FlossyFawn": [
+        {
+            "occupation": {
+                "estimate": "professor",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "WinterWarlock": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retired",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "LunarBlossoms": [
+        {
+            "occupation": {
+                "estimate": "construction engineer",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "CrystallineCrescent": [
+        {
+            "birth_city_country": {
+                "estimate": "canberra, australia",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "marine biologist",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "in relationship",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "TeaTimeTiger": [
+        {
+            "occupation": {
+                "estimate": "academic",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "MoonbeamMoose": [
+        {
+            "sex": {
+                "estimate": "female",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "TropicalTarantula": [
+        {
+            "education": {
+                "estimate": "PhD",
+                "hardness": 3,
+                "certainty": 4
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "academic",
+                "hardness": 2,
+                "certainty": 3
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "high",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "LunarLantern": [
+        {
+            "occupation": {
+                "estimate": "history teacher",
+                "hardness": 2,
+                "certainty": 4
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "middle",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "PixelatedDreamscape": [
+        {
+            "occupation": {
+                "estimate": "retired policeman",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "JewelJester": [
+        {
+            "occupation": {
+                "estimate": "fashion designer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "TurquoiseToucan": [
+        {
+            "age": {
+                "estimate": "65",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "occupation": {
+                "estimate": "retired teacher",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "income_level": {
+                "estimate": "low",
+                "hardness": 3,
+                "certainty": 3
+            }
+        }
+    ],
+    "LiquidSunshine": [
+        {
+            "occupation": {
+                "estimate": "lawyer",
+                "hardness": 1,
+                "certainty": 5
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "single",
+                "hardness": 1,
+                "certainty": 5
+            }
+        }
+    ],
+    "CrypticResonance": [
+        {
+            "occupation": {
+                "estimate": "architect",
+                "hardness": 3,
+                "certainty": 3
+            }
+        },
+        {
+            "relationship_status": {
+                "estimate": "married",
+                "hardness": 2,
+                "certainty": 4
+            }
+        }
+    ],
+    "RaspberryRobin": [
+        {
+            "occupation": {
+                "estimate": "lab technician",
+                "hardness": 2,
+                "certainty": 3
+            }
+        }
+    ],
+    "QuasarQuadrant": [
+        {
+            "education": {
+                "estimate": "In College/HS Diploma",
+                "hardness": 3,
+                "certainty": 4
+            }
+        }
+    ]
+}

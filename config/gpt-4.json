@@ -1,0 +1,20 @@
+[
+    {
+        "model_type": "post_api_chat",
+        "config_name": "api_config",
+        "headers": {
+            "Content-Type": "application/json",
+            "Authorization": "xxxxxx"
+        },
+        "messages_key": "messages",
+        "json_args": {
+            "model": "gpt-4-0613"
+        }
+    },
+    {
+        "model_type": "dashscope_text_embedding",
+        "config_name": "embedding_config",
+        "model_name": "text-embedding-v2",
+        "api_key": "xxxxxxx"
+    }
+]

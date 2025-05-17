@@ -1,0 +1,2 @@
+history 11
+True - sentiments definitely aren't universal; seen plenty vary too much.

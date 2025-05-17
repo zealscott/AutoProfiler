@@ -1,0 +1,2 @@
+history 6
+Prioritizing doesn't fill empty wallets though.
