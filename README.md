@@ -1,4 +1,4 @@
-# AutoProfiler: Automatic Profile Inference Attack via Multi-Agent LLM System
+# Automated Profile Inference with Language Model Agents
 
 This repository contains the implementation of **AutoProfiler** on the synthetic dataset, a novel multi-agent system that performs automated profile inference using Large Language Models (LLMs). 
 
