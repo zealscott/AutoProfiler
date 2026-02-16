@@ -6,7 +6,7 @@ from agentscope.service import (
     ServiceExecStatus,
 )
 
-from agentscope.rag import llama_index_knowledge
+from agentscope.rag import LlamaIndexKnowledge
 
 
 def get_new_history(synthpai_history: list, visited: list, n: int = 5) -> ServiceResponse:
@@ -44,7 +44,7 @@ def get_new_history(synthpai_history: list, visited: list, n: int = 5) -> Servic
 
 
 def get_related_history(
-    synthpai_history: list, query: str, knowledge: llama_index_knowledge, top_k=5
+    synthpai_history: list, query: str, knowledge: LlamaIndexKnowledge, top_k=5
 ) -> ServiceResponse:
     """
     Retrieve the semantic related user synthetic history based on the given query.
