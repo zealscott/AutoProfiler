@@ -4,16 +4,16 @@ from typing import Any
 from loguru import logger
 import json
 
-from agentscope.exception import ResponseParsingError
-from agentscope.agents import AgentBase
-from agentscope.message import Msg
-from agentscope.parsers import MarkdownJsonDictParser
+from core.exceptions import ResponseParsingError
+from core.base_agent import AgentBase
+from core.message import Msg
+from core.parser import MarkdownJsonDictParser
 
 from util.prompt_loader import *
 from util.data_loader import SafeDict
 from util.parsing import parsing_function_response
 
-from agentscope.utils.token_utils import count_openai_token
+import litellm
 
 
 class Profiler(AgentBase):
@@ -25,7 +25,7 @@ class Profiler(AgentBase):
     def __init__(
         self,
         name: str,
-        model_config_name: str,
+        model: str,
         target_attributes: list,
         sys_prompt: str = "You're a helpful analyst. Your name is {name}.",
         count_token: bool = False,
@@ -39,14 +39,14 @@ class Profiler(AgentBase):
                 The name of the agent.
             sys_prompt (`str`):
                 The system prompt of the agent.
-            model_config_name (`str`):
-                The name of the model config, which is used to load model from
-                configuration.
+            model (`str`):
+                The LiteLLM model identifier.
         """
         super().__init__(
             name=name,
             sys_prompt=sys_prompt,
-            model_config_name=model_config_name,
+            model=model,
+            **kwargs,
         )
 
         self.count_token = count_token
@@ -137,7 +137,7 @@ class Profiler(AgentBase):
             # Generate and parse the response
             try:
                 if self.count_token:
-                    n_tokens = count_openai_token(prompt, model="gpt-4-0613")
+                    n_tokens = litellm.token_counter(model=self.model.model, messages=prompt)
                     self.speak(f" Count input token {n_tokens} ".center(70, "#"))
                 res = self.model(
                     prompt,
@@ -207,7 +207,7 @@ class Profiler(AgentBase):
             # Generate and parse the response
             try:
                 if self.count_token:
-                    n_tokens = count_openai_token(prompt, model="gpt-4-0613")
+                    n_tokens = litellm.token_counter(model=self.model.model, messages=prompt)
                     self.speak(f" Count input token {n_tokens} ".center(70, "#"))
                 res = self.model(
                     prompt,
@@ -278,7 +278,7 @@ class Profiler(AgentBase):
             # Generate and parse the response
             try:
                 if self.count_token:
-                    n_tokens = count_openai_token(prompt, model="gpt-4-0613")
+                    n_tokens = litellm.token_counter(model=self.model.model, messages=prompt)
                     self.speak(f" Count input token {n_tokens} ".center(70, "#"))
                 res = self.model(
                     prompt,

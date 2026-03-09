@@ -2,18 +2,20 @@
 Design a set of evaluators to evaluate the PII
 """
 
+from typing import Any
+
 from loguru import logger
 import json
 
-from agentscope.exception import ResponseParsingError
-from agentscope.agents import AgentBase
-from agentscope.message import Msg
+from core.exceptions import ResponseParsingError
+from core.base_agent import AgentBase
+from core.message import Msg
 
 from util.prompt_loader import EVALUATOR_PROMPT
 from util.parsing import parsing_function_response
 from util.data_loader import SafeDict
 
-from agentscope.utils.token_utils import count_openai_token
+import litellm
 
 
 class Evaluator(AgentBase):
@@ -22,14 +24,16 @@ class Evaluator(AgentBase):
     def __init__(
         self,
         name: str,
-        model_config_name: str,
+        model: str,
         sys_prompt: str = "You're a helpful evaluator. Your name is {name}.",
         count_token: bool = False,
+        **kwargs: Any,
     ) -> None:
         super().__init__(
             name=name,
             sys_prompt=sys_prompt,
-            model_config_name=model_config_name,
+            model=model,
+            **kwargs,
         )
         self.count_token = count_token
         self.model.max_retries = 20

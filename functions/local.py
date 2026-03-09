@@ -1,12 +1,7 @@
 import sys
 import io
 
-from agentscope.service import (
-    ServiceResponse,
-    ServiceExecStatus,
-)
-
-from agentscope.rag import llama_index_knowledge
+from core.toolkit import ServiceResponse, ServiceExecStatus
 
 
 def get_new_history(synthpai_history: list, visited: list, n: int = 5) -> ServiceResponse:
@@ -44,15 +39,15 @@ def get_new_history(synthpai_history: list, visited: list, n: int = 5) -> Servic
 
 
 def get_related_history(
-    synthpai_history: list, query: str, knowledge: llama_index_knowledge, top_k=5
+    synthpai_history: list, query: str, knowledge, top_k=5
 ) -> ServiceResponse:
     """
     Retrieve the semantic related user synthetic history based on the given query.
     Args:
         query (`str`):
             The query to retrieve the related user synthetic history.
-        knowledge (`llama_index_knowledge`):
-            The knowledge object that contains the user synthetic history.
+        knowledge:
+            The knowledge object (LlamaIndex VectorStoreIndex) for semantic search.
         top_k (`int`, defaults to `5`):
             The number of related histories to retrieve.
     Returns:
@@ -61,10 +56,11 @@ def get_related_history(
         and `content` is a string of related user synthetic histories or error information,
         which depends on the `status` variable.
     """
-    # Retrieve the related user synthetic history
+    # Retrieve the related user synthetic history using direct LlamaIndex API
     try:
         output = []
-        nodes = knowledge.retrieve(query, similarity_top_k=top_k, to_list_strs=False)
+        retriever = knowledge.as_retriever(similarity_top_k=top_k)
+        nodes = retriever.retrieve(query)
         for node in nodes:
             filename = node.metadata["file_name"]
             idx = int(filename.strip(".txt").split("_")[-1])

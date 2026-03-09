@@ -1,16 +1,15 @@
 # -*- coding: utf-8 -*-
 import json
 import os
-from agentscope.models import load_model_by_config_name
-from agents.claude_agent import ClaudePostAPIChatWrapper
-from agents.gemini_agent import GeminiPostAPIChatWrapper
-from agentscope.rag import LlamaIndexKnowledge
-from agentscope.message import Msg
-import agentscope
 
-import time
+import yaml
+from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
+
+from core.message import Msg
+from core.embedding import LiteLLMEmbedding
 
 from init_agents import init_retriever, init_profiler, init_summarizer
+from tagging import run_tagging
 from util.data_loader import load_synthpai, check_valid
 from util.data_clean import deduplicate
 
@@ -19,7 +18,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--target_user", "-u", type=str, help="The target user to infer PIIs.")
-parser.add_argument("--llm_model", "-m", type=str, help="The LLM model to use.")
+parser.add_argument("--llm_model", "-m", type=str, default="gemini-2.5-flash", help="The LLM model to use.")
 
 args = parser.parse_args()
 target_user = args.target_user
@@ -32,43 +31,44 @@ if target_attributes == []:
     exit()
 
 
-model_config_path = f"./config/{llm_model}.json"
-agentscope.init(model_configs=model_config_path)
+# Load config from YAML
+config_path = f"./config/{llm_model}.yaml"
+with open(config_path, "r") as f:
+    config = yaml.safe_load(f)
 
-rag_config = {
-    "emb_model_config_name": "embedding_config",
-    "data_processing": [
-        {
-            "load_data": {
-                "loader": {
-                    "create_object": True,
-                    "module": "llama_index.core",
-                    "class": "SimpleDirectoryReader",
-                    "init_args": {
-                        "input_dir": f"./dataset/tag/{target_user}",
-                        "required_exts": [".txt"],
-                    },
-                }
-            }
-        },
-    ],
-}
+model_name = config["model"]
+embedding_model = config.get("embedding_model", "openai/text-embedding-3-small")
+api_key = config.get("api_key", None)
+embedding_api_key = config.get("embedding_api_key", api_key)
 
-emb_model = load_model_by_config_name("embedding_config")
+# Run tagging step before building RAG index
+run_tagging(target_user=target_user, model_name=model_name, api_key=api_key)
 
+# Set up embedding model via LiteLLM
+embed_model = LiteLLMEmbedding(model_name=embedding_model, api_key=embedding_api_key)
 
-knowledge = LlamaIndexKnowledge(
-    knowledge_id=target_user, emb_model=emb_model, knowledge_config=rag_config, persist_root="./dataset/vdb"
-)
+# Set up RAG knowledge base using direct LlamaIndex API
+vdb_path = f"./dataset/vdb/{target_user}"
+data_dir = f"./dataset/tag/{target_user}"
+
+if os.path.exists(vdb_path):
+    # Load existing index from disk
+    storage_context = StorageContext.from_defaults(persist_dir=vdb_path)
+    knowledge = load_index_from_storage(storage_context, embed_model=embed_model)
+else:
+    # Build new index
+    documents = SimpleDirectoryReader(input_dir=data_dir, required_exts=[".txt"]).load_data()
+    knowledge = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
+    knowledge.storage_context.persist(persist_dir=vdb_path)
 
 # Load reddit history
 user_history = load_synthpai(target_user)
 visited_history = []
 
 count_token = True if llm_model == "gpt-4" else False
-retriever = init_retriever(user_history, knowledge, visited_history, count_token)
-profiler = init_profiler(target_attributes, count_token)
-summarizer = init_summarizer(target_attributes, count_token)
+retriever = init_retriever(user_history, knowledge, visited_history, count_token, model_name=model_name, api_key=api_key)
+profiler = init_profiler(target_attributes, count_token, model_name=model_name, api_key=api_key)
+summarizer = init_summarizer(target_attributes, count_token, model_name=model_name, api_key=api_key)
 
 
 x = Msg(name="user", role="user", content="Please begin inferring\n")
@@ -79,7 +79,6 @@ key_piis = []  # we explicitly store the highly confident PIIs in case of forget
 cur_piis = []  # this serves as the compression of memory
 
 while True:
-    time.sleep(5)
     instruct_msg = profiler.think(x, reset=True)
 
     while instruct_msg.parsed["action"] == "retrieval" or instruct_msg.parsed["action"] == "search":
@@ -151,7 +150,7 @@ with open(f"./dataset/{llm_model}/pii/{target_user}.json", "w") as f:
     json.dump(final_piis, f, indent=2)
 
 with open(f"./dataset/{llm_model}/summary/{target_user}.txt", "w") as f:
-    if description.parsed["summary"] == None:
+    if description.parsed["summary"] is None:
         f.write("No summary available")
     else:
         f.write(description.parsed["summary"])

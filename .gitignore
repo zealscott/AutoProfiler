@@ -173,3 +173,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Pipeline outputs
+dataset/tag/
+dataset/vdb/
+dataset/*/pii/
+dataset/*/summary/
+incomplete_*.txt
