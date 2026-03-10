@@ -146,3 +146,15 @@ This research is conducted for **academic purposes only**. The system is designe
 - **Advance the field** of privacy and machine learning
 
 **Disclaimer**: This tool should not be used for unauthorized personal information extraction or privacy violations. This research is for academic purposes only. Users are responsible for complying with all applicable laws and ethical guidelines.
+
+## Changelog
+
+### v2.0 — 2026-03-09: LiteLLM Refactor
+- Migrated from AgentScope to a custom lightweight core framework with [LiteLLM](https://docs.litellm.ai/) as the unified LLM backend
+- Added modular `core/` layer (LLM client, memory, output parser, toolkit) replacing AgentScope internals
+- Introduced YAML-based model configuration with multi-provider support (Gemini, OpenAI, Anthropic, and any LiteLLM-compatible provider)
+
+### v1.0 — 2025-05-17: Initial Release (AgentScope)
+- Initial implementation of the AutoProfiler multi-agent system built on [AgentScope](https://github.com/modelscope/agentscope)
+- Four-agent pipeline: Tagger, Retriever, Profiler, Summarizer
+- SynthPAI dataset integration with ground truth evaluation
