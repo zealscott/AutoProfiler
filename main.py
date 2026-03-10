@@ -106,8 +106,9 @@ while True:
                 role="user",
                 content=f"You already infer: {x}. However, there is still more user's comment history, you should retrieval more for reasoning. Keep going!\n",
             )
+            continue
 
-    if instruct_msg.parsed["action"] == "reason":
+    elif instruct_msg.parsed["action"] == "reason":
         ########### start reasoning ###########
         instruct_msg = Msg(name="profiler", role="assistant", content=instruct_msg.parsed["instruction"])
         res_msg = profiler.reason(instruct_msg)
@@ -132,6 +133,15 @@ while True:
         cur_piis = summarizer.check(res_msg).parsed["results"]
         # perpare for the next iteration
         x = Msg(name="Summarizer", role="assistant", content=cur_piis)
+
+    else:
+        action = instruct_msg.parsed["action"]
+        print(f"Warning: unrecognized action '{action}', treating as 'retrieval'")
+        x = Msg(
+            name="user",
+            role="user",
+            content=f"Invalid action '{action}'. Please choose from: retrieval, search, reason, or finish.\n",
+        )
 
 
 print(f"Inferred PIIs: {json.dumps(final_piis, indent=2)}")
